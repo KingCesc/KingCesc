@@ -4,14 +4,15 @@
 - 传统银行服务商大数据技术经理
 
 ## 爱好
-- 篮球
-- 炉石传说, 加好友 ```Nicholas#52129```
+- 足球, `Arsenal F.C.`
+- 篮球, `雷霆三少`粉丝
+- 炉石传说, 加好友 `Nicholas#52129`
 - 美剧
 - 汽车
 
 ## 联系我
 - 个人主页: www.wlushi.com
-- email: zhouw3339@gmail.com
+- Email: zhouw3339@gmail.com
 
 ## 招聘
 ```长沙地区招中高级Java工程师,有意向的发简历到邮箱```
