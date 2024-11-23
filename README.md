@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @KingCesc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 经历
+- 东南亚跨境电商SAAS ERP（客优云）技术负责人
+- 1688商品平台、开放平台
+- 传统银行服务商大数据技术经理
 
-<!---
-KingCesc/KingCesc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 爱好
+- 篮球
+- 炉石传说
+- 美剧
+- 汽车
+
+## 联系我
+- 个人主页： www.wlushi.com
+- email: zhouw3339@gmail.com
+
+## 招聘
